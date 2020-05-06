@@ -21,3 +21,5 @@ Main files are in src/fr/emse/ai/csp/ :
 
 <img src="nqueens.jpg" alt="nqueens"/>
 
+A solution for the 20-queens problem using the Min-conflict solver
+
