@@ -19,3 +19,5 @@ Main files are in src/fr/emse/ai/csp/ :
 
 * queensN: this is a complex N-queens problem. The folder contains two files, queensN.java which is an implementation of CSP (the problem's modelization) and TestN.java the file to execute in order to test multiple solvers: A simple backtracking (values of N allowed are very limited), a Min-confilct solver (can go up to N=1000). To improve the backtracking solver, some heuristics were added improving whether the choice of the next variables or the values assigned, these heuristics include: the Minimum remaining values, the Degree and the least constraining value heuristics.
 
+<img src="Nqueens.jpg" alt="1"/>
+
